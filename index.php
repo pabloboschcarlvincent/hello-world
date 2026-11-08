@@ -28,7 +28,7 @@
 <body>
 
     <div class="card">
-        <h1>Hello World!</h1>
+        <h1>Hello Bosch!</h1>
         <p>My first website using XAMPP and VS Code.</p>
     </div>
 
